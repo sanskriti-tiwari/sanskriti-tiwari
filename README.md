@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanskriti Tiwari</h1>
+<h3 align="center">Aspiring Software Engineer | ML Enthusiast </h3>
 
-<!--
-**sanskriti-tiwari/sanskriti-tiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a Restaurant Inventory Management System using MERN + PostgreSQL**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structures, Machine Learning, and Python internals**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **open-source, DSA & real-world MERN projects**
+
+- 📫 How to reach me: **[sanskritiwari215@gmail.com] | [https://www.linkedin.com/in/sanskriti-tiwari-89941b265/]**
+
+- ⚡ Fun fact: I love building efficient systems and exploring new tech every week!
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskrititiwari&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrititiwari&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,html,css,py,c,cpp,git,github,vscode,mongodb,matlab" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p>
+  <a href="https://linkedin.com/in/sanskriti-tiwari" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
