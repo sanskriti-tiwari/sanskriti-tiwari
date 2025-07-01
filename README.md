@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source, DSA & real-world MERN projects**
 
-- 📫 How to reach me: **[sanskritiwari215@gmail.com] | [https://www.linkedin.com/in/sanskriti-tiwari-89941b265/]**
-
-- ⚡ Fun fact: I love building efficient systems and exploring new tech every week!
+- 📫 How to reach me: **sanskritiwari215@gmail.com | https://www.linkedin.com/in/sanskriti-tiwari-89941b265/**
 
 ---
 
