@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskriti Tiwari</h1>
 <h3 align="center">Aspiring Software Engineer | ML Enthusiast </h3>
 
-- 🔭 I’m currently working on **a Restaurant Inventory Management System using MERN + PostgreSQL**
+- 🔧 Exploring full-stack development with a focus on the MERN stack and PostgreSQL*
 
 - 🌱 I’m currently learning **Data Structures, Machine Learning, and Python internals**
 
